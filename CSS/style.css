@@ -1,0 +1,29 @@
+.general{
+    background-color: rgb(42, 172, 216);
+    text-align: center;
+    padding-top: 180px;
+    color: rgb(56, 23, 204);
+    font-style: normal;
+    font-size: 25px;
+}
+
+.b1{
+    background-color: rgb(2, 10, 10);
+    color: rgb(189, 185, 206);
+    font-style: normal;
+    font-size: 25px;
+    border-radius: 45%;
+}
+
+.b2{
+    background-color: rgb(2, 10, 10);
+    color: rgb(189, 185, 206);
+    font-style: normal;
+    font-size: 25px;
+    border-radius: 45%;
+}
+h1{
+    color: rgb(28, 14, 88);
+    font-style: italic;
+    font-size: 40px;
+}
